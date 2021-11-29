@@ -2,9 +2,7 @@
   
   
  
-◾ I'm working a Steam integration App, while I build a Dashboard.
-  
-◾ As I learn Laravel and Vue!
+◾ I'm working as Junior Developer, based in ES, Brasil!
   
 ◾ My focus is always the Backend: .NET Core and Laravel! 
   
