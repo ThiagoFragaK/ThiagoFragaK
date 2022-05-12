@@ -4,7 +4,7 @@
  
 ◾ I'm working as Junior Developer, based in ES, Brasil!
   
-◾ My focus is always the Backend: .NET Core and Laravel! 
+◾ My focus is always the Backend: .NET and Laravel! 
   
 📫 How to reach me: thiago@fragainformatica.com
   
