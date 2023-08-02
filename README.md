@@ -2,7 +2,7 @@
   
   
  
-◾ I'm working as Junior Developer, based in ES, Brasil!
+◾ I'm working as Developer, based in ES, Brasil!
   
 ◾ My focus is always the Backend: .NET and Laravel! 
   
