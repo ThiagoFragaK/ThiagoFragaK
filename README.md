@@ -4,7 +4,7 @@
  
 ◾ I'm working as Developer, based in ES, Brasil!
   
-◾ My focus is always the Backend: .NET and Laravel! 
+◾ Fullstack wih focus is always the Backend: .NET and Laravel! 
   
 📫 How to reach me: thiagofraga@proton.me
   
